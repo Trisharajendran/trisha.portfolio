@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trisha.portfolio/static/css/main.10e139b0.css",
+    "main.js": "/trisha.portfolio/static/js/main.4ed2fc65.js",
+    "static/media/badge1.png": "/trisha.portfolio/static/media/badge1.1ccd6768a57d8945128b.png",
+    "static/media/Chaat.png": "/trisha.portfolio/static/media/Chaat.d7cc3cb05b64ab79a3de.png",
+    "static/media/badge2.png": "/trisha.portfolio/static/media/badge2.0d2c6e714c8a9ab9974a.png",
+    "static/media/9.png": "/trisha.portfolio/static/media/9.684d630d18f27aaecd1d.png",
+    "static/media/logo.jpeg": "/trisha.portfolio/static/media/logo.1058dda3c9516c4d9012.jpeg",
+    "static/media/contactImg.png": "/trisha.portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/trisha.portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/Shiash_logo.png": "/trisha.portfolio/static/media/Shiash_logo.7927ea3e751cfc077bb5.png",
+    "static/media/projectThree.jpeg": "/trisha.portfolio/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/trisha.portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/trisha.portfolio/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/trisha.portfolio/index.html",
+    "main.10e139b0.css.map": "/trisha.portfolio/static/css/main.10e139b0.css.map",
+    "main.4ed2fc65.js.map": "/trisha.portfolio/static/js/main.4ed2fc65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e139b0.css",
+    "static/js/main.4ed2fc65.js"
+  ]
+}
